@@ -1,0 +1,7 @@
+# Matplotlib style for bmvc plots
+
+# Set default figure size
+figure.figsize : 5.1016790, 3.4011193
+
+# Font sizes
+font.size : 9
