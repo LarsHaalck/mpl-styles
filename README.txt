@@ -1,1 +1,1 @@
-adopted from garrettj403/SciencePlots
+adapted from github.com/garrettj403/SciencePlots
