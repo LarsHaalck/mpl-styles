@@ -1,0 +1,10 @@
+# Matplotlib style for scientific ticks
+
+# Set x axis
+xtick.direction : in
+xtick.major.size : 3
+xtick.major.width : 0.5
+xtick.minor.size : 1.5
+xtick.minor.width : 0.5
+xtick.minor.visible :   True
+xtick.top : True
