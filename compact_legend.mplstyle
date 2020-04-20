@@ -1,0 +1,5 @@
+# whitespace top and left
+legend.borderpad: 0.0
+
+# space between enties
+legend.labelspacing: 0.0
