@@ -4,7 +4,4 @@
 ytick.direction : in
 ytick.major.size : 3
 ytick.major.width : 0.5
-ytick.minor.size : 1.5
-ytick.minor.width : 0.5
-ytick.minor.visible :   True
 ytick.right : True

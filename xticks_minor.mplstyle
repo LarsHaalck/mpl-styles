@@ -1,0 +1,6 @@
+# Matplotlib style for scientific ticks
+
+# Set x axis
+xtick.minor.size : 1.5
+xtick.minor.width : 0.5
+xtick.minor.visible : True
